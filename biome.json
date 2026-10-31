@@ -1,0 +1,8 @@
+{
+  "files": {
+    "includes": ["**", "!bun.lock"]
+  },
+  "formatter": {
+    "indentStyle": "space"
+  }
+}
